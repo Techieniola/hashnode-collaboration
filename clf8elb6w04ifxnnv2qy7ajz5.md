@@ -4,6 +4,7 @@ seoTitle: "Web1 - Internet of things - IOT"
 datePublished: Tue Mar 14 2023 15:23:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf8elb6w04ifxnnv2qy7ajz5
 slug: web-1-episode-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678809572865/cbddfcc0-ae2e-44a1-a0df-aa19dd0aa6fd.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678806939661/810b6825-c59f-47b1-b943-61e80151695b.png
 tags: technology, web-development, computer-science, blockchain, internet
 
