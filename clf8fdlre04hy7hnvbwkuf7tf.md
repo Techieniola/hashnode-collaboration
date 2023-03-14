@@ -5,7 +5,7 @@ seoDescription: "Web3 as we stated earlier, is the new kind of internet service 
 datePublished: Tue Mar 14 2023 15:45:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf8fdlre04hy7hnvbwkuf7tf
 slug: web3-the-world-that-births-crypto-episode-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678808045382/5fec5e00-3c3f-497e-a162-222425ed3d74.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678809211959/a7ef9874-f253-4235-a208-4e9d0d229668.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678808080216/c1afac87-daac-480e-bb22-bc4d2caeb05d.png
 tags: technology, iot, blockchain, web3, decentralization
 
