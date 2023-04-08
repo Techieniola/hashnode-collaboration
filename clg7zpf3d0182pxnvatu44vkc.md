@@ -3,7 +3,7 @@ title: "Getting into tech or what really?"
 seoTitle: "How I transitioned to Tech"
 datePublished: Sat Apr 08 2023 13:06:39 GMT+0000 (Coordinated Universal Time)
 cuid: clg7zpf3d0182pxnvatu44vkc
-slug: getting-into-tech-or-what-really
+slug: career-journal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680956382373/901b3b0b-fa52-4c4b-858b-0ba43b46dc7a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680958793048/30c23590-d564-4c0a-905f-7176fe9a7c1f.png
 tags: blogging, technical-writing-1, career-in-tech, transition-to-tech
@@ -88,4 +88,4 @@ I was done with school and I definitely knew my career path, It was time to focu
 
 A friend told me about her WordPress blog and how easily she created one herself. I decided to create a blog too. I downloaded the WordPress app, together with some writing and keyword tools on my phone. I started by writing some series (not tech-related), articles, and movie synopsis then published them.
 
-I was happy and getting things figured out.
+I was happy and I thought I was getting things figured out until it seems like I'm back to square1.
