@@ -1,6 +1,6 @@
 ---
 title: "The essence of this is not to own a blog"
-seoTitle: "he essence of this is not to own a blog"
+seoTitle: "The essence of this is not to own a blog"
 seoDescription: "Content writing isn’t a joke, whoever said it is, lied!
 
 Nobody told me owning a blog isn’t the core thing but knowing what to post.
