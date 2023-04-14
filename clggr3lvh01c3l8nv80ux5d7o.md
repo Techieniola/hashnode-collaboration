@@ -1,8 +1,12 @@
 ---
 title: "The essence of this is not to own a blog"
-seoTitle: "A content writer and a Digital Marketer"
-seoDescription: "How I started my tech career as a Content Writer and then progressed to becoming a Digital Marketer"
-datePublished: Fri Apr 14 2023 16:15:40 GMT+0000 (Coordinated Universal Time)
+seoTitle: "he essence of this is not to own a blog"
+seoDescription: "Content writing isn’t a joke, whoever said it is, lied!
+
+Nobody told me owning a blog isn’t the core thing but knowing what to post.
+
+Didn't get the memo"
+datePublished: Fri Apr 14 2023 16:25:05 GMT+0000 (Coordinated Universal Time)
 cuid: clggr3lvh01c3l8nv80ux5d7o
 slug: the-essence-of-this-is-not-to-own-a-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681483877295/b3b9f32a-0879-419d-9e0e-454a64e457c8.png
