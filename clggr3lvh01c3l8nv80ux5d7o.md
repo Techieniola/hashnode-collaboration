@@ -15,19 +15,18 @@ tags: technology, technewbie, storytelling, tech-story
 
 ---
 
-> ***Content writing isn’t a joke, whoever said it is, lied!*** 
+> ***Content writing isn’t a joke, whoever said it is, lied!***
 
-For someone who was still trying to figure out what kind of content to put up on the blog, many times, I was not so sure of what to write. 
+For someone who was still trying to figure out what kind of content to put up on the blog, many times, I was not so sure of what to write.
 
-It’s a lot easier when something comes to mind, that way, I just start drafting ideas, then form them into a story before publishing, but on several occasions, I’m uncertain of what and what not to write or how to begin. 
+It’s a lot easier when something comes to mind, that way, I just start drafting ideas, then form them into a story before publishing, but on several occasions, I’m uncertain of what and what not to write or how to begin.
 
-Content writing isn’t a joke, whoever said it is, lied! 
+Content writing isn’t a joke, whoever said it is, lied!
 
 Nobody told me owning a blog isn’t the core thing but knowing what to post.
 
 I guess I didn’t get that memo early enough, still, I had to find a way to help myself.
 
-  
 Honestly, the whole blogging thing was becoming exhausting, majorly because I was indecisive. I couldn’t carve out my niche, I was writing different things that were pointing toward different directions, wrote a sequel, wrote an educative article, and some movie reviews before I finally settled with tech-related stories.
 
 > ***…I was called for an audition at SceneOne Tv….***
@@ -46,13 +45,13 @@ Yh!
 
 This is me thinking I had a chance in acting, well I think I do but probably I’m not ready for that yet. You can give me five years or seven maybe….. And you will see me doing drama on your screen.
 
- Anyways, I decided to sign up for some foreign acting agency's mailing list. I made a wrong choice doing that and each time I got a mail with this content;
+Anyways, I decided to sign up for some foreign acting agency's mailing list. I made a wrong choice doing that and each time I got a mail with this content;
 
 ***“Profile match - A female actress between 18 - 25 years of age living in Athens is needed for a sitcom...”***
 
-I just laugh weirdly. I never showed interest in any, I don’t even bother applying because you and I know I don’t need to, 
+I just laugh weirdly. I never showed interest in any, I don’t even bother applying because you and I know I don’t need to,
 
-There was a time I thought to myself, 
+There was a time I thought to myself,
 
 ***“If only they can sponsor my travel visa, they will see me in Athens, Texas, Uk, Canada... anywhere in a second.”***
 
@@ -69,7 +68,7 @@ At the end of the day,  I had to unsubscribe and sign out to stop receiving tho
 
 The hustle didn’t end there, I registered for a Chinese class to learn Chinese language. I’ve always wanted to learn the language and I was proud I took the bold step to start the class. It was a physical class in the School I had just graduated from.
 
-And I have to tell you, being in the School environment made me feel like I had not graduated. It was that awkward. 
+And I have to tell you, being in the School environment made me feel like I had not graduated. It was that awkward.
 
 ***“Nobody should come and be thinking I have a carry-over ooo”***
 
@@ -85,7 +84,7 @@ Now let me mumble some words in Chinese language for you to know I’m not ‘ca
 
 I learnt a lot in less than 5 months even though covid didn’t let me finish.
 
-Fast forward to early 2020, I got a gig to be a Personal Assistant to a top Nigerian celebrity Manager, I was expected to write and release articles about the celebrity, the management, industry and be among the frontline personnel that will set up her concerts.
+Fast forward to early 2020, I got a gig to be a Personal Assistant to a top Nigerian celebrity Manager, I was expected to write and release articles about the celebrity, the management, industry and be among the frontline personnels that will set up her concerts.
 
 Was I happy about this, YES!
 
@@ -95,11 +94,10 @@ Why? Won’t say!
 
 *No vex!*
 
- As I stated earlier, the hustle didn’t end. I got another job, a sales and marketing job where I was to move around selling a digital product to new users.
+As I stated earlier, the hustle didn’t end. I got another job, a sales and marketing job where I was to move around selling a digital product to new users.
 
 I had done something similar to this when I was in school, at that time I was one of Access Bank campus ambassadors for a short period of time, our target was to create accounts for a particular number of students, so yeah, I knew what I was expected to do with this sales and marketing job I got.
 
-  
 In case you are reading this and probably saying in your head
 
 ***“Haha***
@@ -142,9 +140,9 @@ In my head, I was like ***“Not a marketing job again,***
 
 ***These people should pity me abeg”***
 
-On that spot, I didn’t know if I should talk about my previous marketing experiences or my newly learnt skill in digital marketing. I preferred talking about my skill but without any experience will I be qualified? 
+On that spot, I didn’t know if I should talk about my previous marketing experiences or my newly learnt skill in digital marketing. I preferred talking about my skill but without any experience will I be qualified?
 
-A flash of the people waiting outside to be interviewed came to my mind. 
+A flash of the people waiting outside to be interviewed came to my mind.
 
 **"Ibukun, it's only right for you to seize the moment."**
 
@@ -158,7 +156,7 @@ This is the part where you say *'what'*
 
 I got the job!
 
-It was a startup that was still bootstrapping and everyone on the team was new, that way, it was easy to try out different strategies and finally practice what I had learnt so far. 
+It was a startup that was still bootstrapping and everyone on the team was new, that way, it was easy to try out different strategies and finally practice what I had learnt so far.
 
 I felt fulfilled, and happy that ***'my first official job is here'*** as I would always say.
 
